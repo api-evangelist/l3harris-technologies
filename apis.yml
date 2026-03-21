@@ -1,0 +1,7 @@
+aid: l3harris-technologies
+url: https://raw.githubusercontent.com/api-evangelist/l3harris-technologies/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.l3harris-technologies.com
