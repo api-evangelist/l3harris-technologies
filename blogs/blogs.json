@@ -1,0 +1,13 @@
+{
+  "repo": "l3harris-technologies",
+  "feeds": [
+    {
+      "source": "https://www.l3harris.com/newsroom",
+      "feed_url": "https://www.l3harris.com/feeds/newsroom/rss.xml?rid=12281",
+      "saved": 10,
+      "title": "L3Harris Technologies"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:31:05Z"
+}
