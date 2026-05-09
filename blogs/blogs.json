@@ -3,11 +3,11 @@
   "feeds": [
     {
       "source": "https://www.l3harris.com/newsroom",
-      "feed_url": "https://www.l3harris.com/feeds/newsroom/rss.xml?rid=12281",
-      "saved": 10,
-      "title": "L3Harris Technologies"
+      "feed_url": "https://www.l3harris.com/rss.xml",
+      "title": "L3Harris Technologies",
+      "saved": 50
     }
   ],
-  "post_count": 10,
-  "fetched": "2026-05-03T23:31:05Z"
+  "post_count": 60,
+  "fetched": "2026-05-09T20:17:51Z"
 }
