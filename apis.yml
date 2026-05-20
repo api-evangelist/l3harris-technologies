@@ -19,6 +19,10 @@ description: >-
   product integrations are delivered through customer engagements.
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/L3Harris
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/l3harris-technologies
   - url: https://www.l3harris.com
     type: Website
   - url: https://www.l3harris.com/contact-us
