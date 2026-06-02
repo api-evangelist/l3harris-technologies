@@ -2,12 +2,20 @@
   "repo": "l3harris-technologies",
   "feeds": [
     {
-      "source": "https://www.l3harris.com/newsroom",
+      "source": "https://www.l3harris.com/rss.xml",
       "feed_url": "https://www.l3harris.com/rss.xml",
-      "title": "L3Harris Technologies",
-      "saved": 7
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.l3harris.com/newsroom",
+      "feed_url": "https://www.l3harris.com/newsroom",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "post_count": 67,
-  "fetched": "2026-05-17T20:20:35Z"
+  "post_count": 81,
+  "fetched": "2026-06-01T23:35:02Z"
 }
