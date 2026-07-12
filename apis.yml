@@ -19,6 +19,8 @@ description: >-
   product integrations are delivered through customer engagements.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/l3harris-technologies-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/L3Harris
   - type: LinkedIn
