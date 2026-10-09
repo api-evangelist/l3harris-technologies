@@ -1,0 +1,30 @@
+# Front Door AI Index — l3harris-technologies — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: l3harris-technologies
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.l3harris.com
+  final_host: www.l3harris.com
+  ownership: unresolved
+  owner: null
+  shares_host_with:
+  - exelis
+  - l-3-communications
+  inherited_from: null
+  alias_of: null
+  verdict: scored
+  score: null
+  band: null
+  band_label: null
+  host_score: 1
+  density: null
+  words: 495
+  tiers:
+    agentic: 0
+    core: 1
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 1
